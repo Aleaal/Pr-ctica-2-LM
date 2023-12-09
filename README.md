@@ -1,2 +1,2 @@
-# Pr-ctica-2-LM
+# Practica-2-LM
 Práctica 2 Alejandro Leal
