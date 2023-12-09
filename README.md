@@ -9,4 +9,4 @@ A este código lo complementan el archivo style.css y 4 videos que son el traile
 
 ![Ejemplo de Videojuego](https://github.com/Aleaal/Practica-2-LM/assets/147175061/c889a52e-170f-456c-9d01-fe22965217a0)
 
-
+Este código ha sido hecho por Alejandro Leal
